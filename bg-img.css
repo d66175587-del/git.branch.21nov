@@ -4,3 +4,10 @@
     width: 100%;
     height: 160vh;
 }
+.bg2 {
+    background-image: url(./foto/IMAGE\ -\ 2025-11-22T091145.358.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 93vh;
+    margin-top: 100px;
+}
